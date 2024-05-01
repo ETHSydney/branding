@@ -1,2 +1,2 @@
 # branding
-SydEthereum logo and brand
+[ETHSydney](https://www.ethsydney.net/) logo and brand
